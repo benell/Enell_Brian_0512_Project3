@@ -1,0 +1,45 @@
+/*
+Author: Brian Enell
+Project: VFW 0512 Project 2
+*/
+
+body {
+	background-color: #edeac8;
+}
+
+h1 {
+	margin: 0px;
+	padding: 10px;
+	border-style: none;
+	background-color: #edeac8;
+	font-weight: bold;
+	text-shadow: 2px -2px 5px #e2aca0;
+	font-family: fantasy;
+}
+
+form {
+	margin: 0px;
+	list-style-type: cjk-ideographic;
+	background-color: #edeac8;
+	text-shadow: -3px 0px 5px #d0b688;
+	padding-left: 2px;
+	font-family: fantasy;
+}
+
+items {
+	text-shadow: 0px -2px 5px #fdff87;
+	background-color: #e4d2f6;
+	font-family: fantasy;
+}
+
+submit {
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-right: 100px;
+	padding-left: 100px;
+	font-family: fantasy;
+}
+.button {
+    border: 1px solid #006;
+    background: #ccf;
+}
